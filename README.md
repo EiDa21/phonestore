@@ -24,31 +24,7 @@ A Django-based web application for managing a phone store, including product lis
 - **Database:** SQLite (default)
 - **Environment:** Python venv
 - **Version Control:** Git & GitHub
-
----
-
-## 📂 Project Structure
-```
-Phonestore/
-│
-├── phonestore/          # Main app
-│   ├── migrations/
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── views.py
-│   └── urls.py
-│
-├── Phonestore/          # Project settings
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── manage.py
-├── requirements.txt
-└── README.md
-```
-
+- 
 ---
 
 ## ⚙️ Setup Instructions
@@ -89,59 +65,9 @@ Open `http://127.0.0.1:8000/` in your browser.
 
 ---
 
-## 🧠 What Recruiters Will Notice
-- Proper use of virtual environments
-- Correct migration workflow
-- Clean Django app separation
-- Readable, well-documented code
-- Git-ready project structure
-
----
-
-## 🌱 Possible Improvements
-- REST API with Django REST Framework
-- Authentication system
-- Product categories & search
-- Image upload for phones
-- Deployment (Render / Railway / DigitalOcean)
-
----
-
-## 📸 Screenshots
-> _Screenshots help recruiters quickly understand your project visually._
-
-### 🔹 Homepage
-_Add a screenshot showing the main page or product listing._
-
-```
-/screenshots/homepage.png
-```
-
-### 🔹 Contact Page / Form
-_Show the contact form or user interaction page._
-
-```
-/screenshots/contact.png
-```
-
-### 🔹 Admin Dashboard
-_Demonstrate Django Admin with your models registered._
-
-```
-/screenshots/admin.png
-```
-
-**How to add screenshots:**
-1. Create a folder named `screenshots` in your project root
-2. Take screenshots while the server is running
-3. Save them with clear names (e.g. `homepage.png`)
-4. GitHub will automatically render them in this section
-
----
-
 ## 👨‍💻 Author
 **Emeka Dennis**  
-Backend Developer (Django) & Graphics Designer
+Backend Developer (Django)
 
 ---
 
