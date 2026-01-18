@@ -1,0 +1,21 @@
+# Virtual environments
+phone_env/
+venv/
+env/
+store/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Django
+db.sqlite3
+media/
+
+# Environment variables
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
